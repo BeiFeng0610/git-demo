@@ -13,4 +13,4 @@ hello beif! hello git!
 hello beif! hello git!
 hello beif! hello git!
 hello beif! hello git!
-hello beif! hello git!
+hello beif! hello git! hot-fix test
